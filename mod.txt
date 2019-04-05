@@ -31,7 +31,7 @@
 			"host" : {
 				"json" : "https://github.com/offyerrocker/SaveTheCivilians/blob/dev/meta.json",
 				"download" : "https://github.com/offyerrocker/SaveTheCivilians/archive/master.zip",
-				"patchnotes" : "https://github.com/offyerrocker/SaveTheCivilians/blob/master/patchnotes.html"
+				"patchnotes" : "https://modworkshop.net/mydownloads.php?action=view_down&did=22000#changelog"
 			}
 		}
 	]
