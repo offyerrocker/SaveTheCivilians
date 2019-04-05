@@ -27,7 +27,12 @@
 	],
 	"updates" : [
 		{
-			"identifier" : "thisisntprofessional"
+			"identifier" : "thisisntprofessional",
+			"host" : {
+				"json" : "https://github.com/offyerrocker/SaveTheCivilians/blob/dev/meta.json",
+				"download" : "https://github.com/offyerrocker/SaveTheCivilians/archive/master.zip",
+				"patchnotes" : "https://github.com/offyerrocker/SaveTheCivilians/blob/master/patchnotes.html"
+			}
 		}
 	]
 }
