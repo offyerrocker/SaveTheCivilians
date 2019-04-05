@@ -6,7 +6,7 @@
 	"image" : "stc.png",
 	"color" : "0.52 1 0",
 	"contact" : "Discord: Offyerrocker#3878",
-	"version" : "1.0",
+	"version" : "1.1",
 	"hooks": [
 		{
 			"hook_id" : "lib/units/enemies/medic/medicdamage",
@@ -27,7 +27,12 @@
 	],
 	"updates" : [
 		{
-			"identifier" : "thisisntprofessional"
+			"identifier" : "thisisntprofessional",
+			"host" : {
+				"meta" : "https://raw.githubusercontent.com/offyerrocker/SaveTheCivilians/dev/meta.json",
+				"download" : "https://github.com/offyerrocker/SaveTheCivilians/archive/master.zip",
+				"patchnotes" : "https://modworkshop.net/mydownloads.php?action=view_down&did=22000#changelog"
+			}
 		}
 	]
 }
